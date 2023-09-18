@@ -1,7 +1,7 @@
-[![MasterHead](https://bigishere.files.wordpress.com/2018/05/ml.png)](https://rishavchanda.io)
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=1500w)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhruv Taneja</h1>
 <h3 align="center">"Data Scientist | ML, AI, and Deep Learning Expert | Transforming Data into Insights"</h3>
-<img align="right" alt="Coding" width="400" src=https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/10lines3.gif>
+<img align="right" alt="Coding" width="400" src=https://miro.medium.com/v2/resize:fit:828/1*d7QeSREErtMuJQ0bcptMXQ.gif>
 
 - 🌱 I’m currently learning **Deep Learning Algorithms,Computer Vision,Django,Api etc.**
 
